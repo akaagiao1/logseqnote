@@ -1,0 +1,2 @@
+- logseq://graph/logseq?page=%F0%9F%8F%99%E5%9C%A8%E7%AB%8B%E8%BF%9C%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%97%A5%E5%AD%90
+-
